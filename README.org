@@ -1,0 +1,6 @@
+*WindowX Gripper Control
+A project for controlling interfaces with WidowX and sensors.
+
+**Requirements
+
+**Running

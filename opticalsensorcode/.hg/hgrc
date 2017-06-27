@@ -1,0 +1,4 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+default = http://developer.mbed.org/users/DimpleB05/code/mbed_adns9800_v2/
